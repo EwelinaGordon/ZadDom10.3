@@ -1,0 +1,4 @@
+Mleko;Mlekowita;40
+Kasza;Kaszex;13
+Sok;Fortuna;20
+Ser;Prymus;40
